@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anhthidang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @anhthidang from VN
+- 👀 I’m interested in football
+- 🌱 I’m currently learning data engineering
+- 💞️ I’m looking to collaborate on coding
+- 📫 How to reach me in future
 
 <!---
 anhthidang/anhthidang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
